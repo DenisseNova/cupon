@@ -1,0 +1,56 @@
+.micolornav{
+  background-color: #28A745;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.text-muted{
+  color: #707070;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 12pt;
+}
+.textaddres{
+  font-size: 10pt;
+}
+.fontcard{
+  color: #212529;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 17pt;
+}
+
+.cupponstyle{
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  font-weight: 500;
+}
+.discount {
+  font-size: 20px;
+  color: #28A745;
+}
+.value{
+  font-weight: 300;
+}
+.icon-gray{
+  color: #707070;
+  font-size: 11px;
+}
+.colorenviar{
+  color: #212529;
+}
+legend{
+  color: #ffffff;
+}
+input::placeholder{
+  color: #707070;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+.colorfooter{
+  color: #707070;
+  font-weight: 300;
+  font-size: 12pt;
+}
+
